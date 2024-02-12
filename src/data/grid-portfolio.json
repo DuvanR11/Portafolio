@@ -1,0 +1,77 @@
+[
+  {
+    "img": "gloupper-travel.webp",
+    "alt": "puede ser una imagen de la portada de la app de turismo",
+    "title": "Gloupper travel",
+    "titleEs": "Gloupper travel",
+    "description": "It is a website that initially strengthens tourism in the department of Huila by giving its users the option of being able to view all the recreational centers, restaurants, and lodgings nearby.",
+    "descriptiones": "Es una web que fortalece el turismo inicalmente en el departamento del Huila dandole a sus usuarios la opcion de poder visualizar todos los centros recreativos, restuarantes, hospedajes que tiene cerca",
+    "technology": ["Next.js", "TypeScript", "Figma", "Tailwind"],
+    "url": "https://travel.gloupper.com/",
+    "repo": "https://github.com/DuvanR11/gloupper-travel-fr.git"
+  },
+  {
+    "img": "infodatos.webp",
+    "alt": "puede ser una imagen de la portada de notias infodatos",
+    "title": "Infodatos",
+    "titleEs": "Infodatos",
+    "description": "It is a regional news website, a communication portal where its users will have first-hand all the reports of the city.",
+    "descriptiones": "Es una web de noticias regionales un portal de comunicacion donde sus usuarios tendran de primera mano todos los informes de la ciudad",
+    "technology": ["Wordpress", "Css"],
+    "url": "https://infodatosnoticias.com/",
+    "repo": "none"
+  },
+  {
+    "img": "vitalsys.webp",
+    "alt": "puede ser una imagen de la portada del sitio web vitalsys",
+    "title": "Vitalsys",
+    "description": "Designed to offer a presentation and advice on the products and services offered by vitalsys, giving a pleasant and fluid user experience.",
+    "descriptiones": "Diseñado para ofrecer una presentación y asesoria de los productos y servicios ofrecidos por vitalsys dando una experiencia de usuario agradable y fluida.",
+    "technology": ["Astro", "React", "Tailwind"],
+    "url": "https://vitalsys.tech/",
+    "repo": "none"
+  },
+  {
+    "img": "laverdadnoticias.webp",
+    "alt": "puede ser una imagen de la portada del sitio web laverdadnoticias",
+    "title": "La verdad",
+    "titleEs": "La verdad",
+    "description": "It is a regional news website, a communication portal where its users will have first-hand all the reports of the city.",
+    "descriptiones": "Es una web de noticias regionales un portal de comunicacion donde sus usuarios tendran de primera mano todos los informes de la ciudad.",
+    "technology": ["Wordpress", "Css"],
+    "url": "https://laverdadnoticias.com.co/",
+    "repo": "none"
+  },
+  {
+    "img": "cmavitalsys.webp",
+    "alt": "puede ser una imagen de la portada del sitio web crm vitalsys",
+    "title": "CRM Vitalsys",
+    "description": "Web application for the flow and control of hospital costs of the ese Carmen Emilia Ospina Garzon .",
+    "descriptiones": "Aplicativo web para el flujo y control de costos hospitalarios de la ese Carmen Emilia Ospina Garzon.",
+    "technology": ["Python", "Php", "JavaScript", "Bootstrap"],
+    "url": "https://cma.vitalsys.tech/",
+    "repo": "none"
+  },
+  {
+    "img": "blog.webp",
+    "alt": "puede ser una imagen del witio web blog",
+    "title": "Blog",
+    "titleEs": "Blog",
+    "description": "A universal blog where technology information is displayed.",
+    "descriptiones": "Un blog universal donde se visualiza información de tecnologia.",
+    "technology": ["JavaScript", "Css", "Html"],
+    "url": "https://quoter.vehement.co",
+    "repo": "none"
+  },
+  {
+    "img": "grid-portfolio-1.webp",
+    "alt": "puede ser una imagen que tiene un texto con letra blanca que dice design",
+    "title": "Vehement Agency",
+    "titleEs": "Agencia Vehement",
+    "description": "Web site design and development for an agency.",
+    "descriptiones": "Diseño y desarrollo de sitio web para agencia.",
+    "technology": ["Figma", "Astro", "React", "Css"],
+    "url": "https://vehement.co",
+    "repo": "none"
+  }
+]

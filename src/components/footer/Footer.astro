@@ -1,0 +1,27 @@
+---
+import style from "./footer.module.css";
+import i18next from "i18next";
+const lang = i18next.language;
+---
+
+<footer class={style.footer}>
+  {
+    lang === "es" ? (
+      <p>
+        &copy; 2022 - {new Date().getFullYear()}. Todos los derechos reservados.
+        Hecho con &hearts; por{" "}
+        <a href="https://twitter.com/DuvanRiveraM1" target="_blank">
+          @duvancode
+        </a>
+      </p>
+    ) : (
+      <p>
+        &copy; 2022 - {new Date().getFullYear()}. All right reserved. Made with
+        &hearts; by{" "}
+        <a href="https://twitter.com/DuvanRiveraM1" target="_blank">
+          @duvancode
+        </a>
+      </p>
+    )
+  }
+</footer>
