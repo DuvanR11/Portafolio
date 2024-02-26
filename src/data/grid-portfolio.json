@@ -60,18 +60,7 @@
     "description": "A universal blog where technology information is displayed.",
     "descriptiones": "Un blog universal donde se visualiza información de tecnologia.",
     "technology": ["JavaScript", "Css", "Html"],
-    "url": "https://quoter.vehement.co",
-    "repo": "none"
-  },
-  {
-    "img": "grid-portfolio-1.webp",
-    "alt": "puede ser una imagen que tiene un texto con letra blanca que dice design",
-    "title": "Vehement Agency",
-    "titleEs": "Agencia Vehement",
-    "description": "Web site design and development for an agency.",
-    "descriptiones": "Diseño y desarrollo de sitio web para agencia.",
-    "technology": ["Figma", "Astro", "React", "Css"],
-    "url": "https://vehement.co",
+    "url": "/",
     "repo": "none"
   }
 ]
