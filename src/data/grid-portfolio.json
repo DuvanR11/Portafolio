@@ -5,7 +5,7 @@
     "title": "Gloupper travel",
     "titleEs": "Gloupper travel",
     "description": "It is a website that initially strengthens tourism in the department of Huila by giving its users the option of being able to view all the recreational centers, restaurants, and lodgings nearby.",
-    "descriptiones": "Es una web que fortalece el turismo inicalmente en el departamento del Huila dandole a sus usuarios la opcion de poder visualizar todos los centros recreativos, restuarantes, hospedajes que tiene cerca",
+    "descriptiones": "Web que fortalece el turismo inicalmente en el departamento del Huila dando la opcion de poder visualizar todos los centros recreativos, restuarantes, hospedajes.",
     "technology": ["Next.js", "TypeScript", "Figma", "Tailwind"],
     "url": "https://travel.gloupper.com/",
     "repo": "https://github.com/DuvanR11/gloupper-travel-fr.git"
@@ -16,7 +16,7 @@
     "title": "Infodatos",
     "titleEs": "Infodatos",
     "description": "It is a regional news website, a communication portal where its users will have first-hand all the reports of the city.",
-    "descriptiones": "Es una web de noticias regionales un portal de comunicacion donde sus usuarios tendran de primera mano todos los informes de la ciudad",
+    "descriptiones": "Es una web de noticias regionales un portal de comunicacion donde sus usuarios tendran de primera mano todos los informes de la ciudad.",
     "technology": ["Wordpress", "Css"],
     "url": "https://infodatosnoticias.com/",
     "repo": "none"
@@ -25,9 +25,21 @@
     "img": "vitalsys.webp",
     "alt": "puede ser una imagen de la portada del sitio web vitalsys",
     "title": "Vitalsys",
+    "titleEs": "Vitalsys",
     "description": "Designed to offer a presentation and advice on the products and services offered by vitalsys, giving a pleasant and fluid user experience.",
     "descriptiones": "Diseñado para ofrecer una presentación y asesoria de los productos y servicios ofrecidos por vitalsys dando una experiencia de usuario agradable y fluida.",
-    "technology": ["Astro", "React", "Tailwind"],
+    "technology": ["JavaScript", "Bootstrap", "Html"],
+    "url": "https://vitalsys.tech/",
+    "repo": "none"
+  },
+  {
+    "img": "vitalsys.webp",
+    "alt": "puede ser una imagen de la portada del sitio web Biolinks",
+    "title": "Biolinks",
+    "titleEs": "Biolinks",
+    "description": "Landing page of links to share the developer's information such as their portfolio and social networks of interest.",
+    "descriptiones": "Landing page de enlaces para compartir la información del desarrollador como su protafolio y redes sociales de interes.",
+    "technology": ["Css", "Html"],
     "url": "https://vitalsys.tech/",
     "repo": "none"
   },
@@ -37,7 +49,7 @@
     "title": "La verdad",
     "titleEs": "La verdad",
     "description": "It is a regional news website, a communication portal where its users will have first-hand all the reports of the city.",
-    "descriptiones": "Es una web de noticias regionales un portal de comunicacion donde sus usuarios tendran de primera mano todos los informes de la ciudad.",
+    "descriptiones": "Es una web de noticias regionales donde sus usuarios tendran de primera mano todos los informes de la ciudad.",
     "technology": ["Wordpress", "Css"],
     "url": "https://laverdadnoticias.com.co/",
     "repo": "none"
@@ -53,6 +65,39 @@
     "repo": "none"
   },
   {
+    "img": "madera_2.webp",
+    "alt": "puede ser una imagen del witio eccommerce madera",
+    "title": "Parks and Decorations",
+    "titleEs": "Parques y Decoraciones",
+    "description": "Personalized ecommerce for a local plastic wood microenterprise to offer web support to its users of its products.",
+    "descriptiones": "Ecommerce personalizado para microempresa local de maderas plasticas para ofrecer acompañamiento web a sus usuario de sus productos.",
+    "technology": ["JavaScript", "Css", "Html", "Django"],
+    "url": "/",
+    "repo": "https://github.com/DuvanR11/madera.git"
+  },
+  {
+    "img": "participacion.webp",
+    "alt": "puede ser una imagen del witio web de participacion ciudadana",
+    "title": "Citizen participation",
+    "titleEs": "Participación Ciudadana",
+    "description": "Website to carry out surveys and generate citizen participation, project with the purpose of displaying knowledge.t",
+    "descriptiones": "Sitio web para realizar encuestas y generar participacion ciudadana proyecto con finalidad de mostrar conocimientos adquiridos.",
+    "technology": ["JavaScript", "Css", "Html","Django"],
+    "url": "/",
+    "repo": "https://github.com/DuvanR11/mensajeria.git"
+  },
+  {
+    "img": "pokemon.webp",
+    "alt": "puede ser una imagen del witio web blog",
+    "title": "Pokemon",
+    "titleEs": "Pokemon",
+    "description": "Pokedex pokemon collection shows knowledge in layout, API consumption, data management, localstorage and use of cookies.",
+    "descriptiones": "Pokedex colección de pokemones muestra de conocimiento en maquetación, consumo de apis, manejo de datos, localstorage y uso de cookies.",
+    "technology": ["Next.js", "TypeScript", "Figma"],
+    "url": "/",
+    "repo": "https://github.com/DuvanR11/pokedex-next.git"
+  },
+  {
     "img": "blog.webp",
     "alt": "puede ser una imagen del witio web blog",
     "title": "Blog",
@@ -62,5 +107,60 @@
     "technology": ["JavaScript", "Css", "Html"],
     "url": "/",
     "repo": "none"
+  },
+  {
+    "img": "quimint.webp",
+    "alt": "puede ser una imagen del witio web quimint",
+    "title": "Quimint inventory",
+    "titleEs": "Quimint inventario",
+    "description": "Inventory manager for the automation of internal processes in the company.",
+    "descriptiones": "Gestor de inventarios para la automatización de procesos internos en la empresa.",
+    "technology": ["JavaScript", "Css", "Html", "Django"],
+    "url": "/",
+    "repo": "https://github.com/DuvanR11/quimint-produccion.git"
+  },
+  {
+    "img": "recluting_2.webp",
+    "alt": "puede ser una imagen del witio web Recluting",
+    "title": "Selection Process Module",
+    "titleEs": "Modulo Proceso de Selección",
+    "description": "Module for the process and filtering of developer selection based on their soft and hard skills.",
+    "descriptiones": "Modulo para el proceso y filtrado de selección de desarrolladores basandose en sus hablidades blanas y duras.",
+    "technology": ["JavaScript", "Css", "Html","Django"],
+    "url": "/",
+    "repo": "https://github.com/DuvanR11/Modulo-Reclutamiento.git"
+  },
+  {
+    "img": "digital.webp",
+    "alt": "puede ser una imagen del witio web Digital soft",
+    "title": "DigitalSoft",
+    "titleEs": "DigitalSoft",
+    "description": "Web portal to offer technology services and custom software creation, integration with Azure chatbot.",
+    "descriptiones": "Portal web para ofrecer servicios de tecnologia y creación de software a la medida, integracion con chatbot de azure.",
+    "technology": ["Angular", "TypeScript", "Sass", "Django"],
+    "url": "/",
+    "repo": "https://github.com/DuvanR11/startup.git"
+  },
+  {
+    "img": "pqrs.webp",
+    "alt": "puede ser una imagen del witio web Pqrs",
+    "title": "Pqrs Manager",
+    "titleEs": "Gestor Pqrs",
+    "description": "Prueba tecnica replicar sistema de pqrs de la alcaldia de Neiva.",
+    "descriptiones": "Prueba tecnica replicar sistema de pqrs de la alcaldia de Neiva.",
+    "technology": ["JavaScript", "Css", "Html","Django", "SQLite"],
+    "url": "/",
+    "repo": "https://github.com/DuvanR11/gestionPqrs.git"
+  },
+  {
+    "img": "open_jira.webp",
+    "alt": "puede ser una imagen del witio web open jira",
+    "title": "Open Jira",
+    "titleEs": "Open Jira",
+    "description": "Task manager based on Jira to work under an agile framework.",
+    "descriptiones": "Gestor de tareas basado en Jira para trabajar bajo un marco de trabajo agil.",
+    "technology": ["Next.js", "TypeScript", "Mui", "Mongo"],
+    "url": "/",
+    "repo": "https://github.com/DuvanR11/Open-Jira.git"
   }
 ]
